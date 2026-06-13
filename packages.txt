@@ -1,2 +1,4 @@
 libopencv-dev
 libglu1
+libavdevice-dev
+libavfilter-dev
