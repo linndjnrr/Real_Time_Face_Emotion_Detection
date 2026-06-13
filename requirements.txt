@@ -1,8 +1,7 @@
-av
-keras==2.10.0
-numpy<1.24.2
-opencv_contrib_python==4.7.0.72
-opencv_python==4.7.0.72
-streamlit==1.21.0
-streamlit_webrtc<0.45.0
-tensorflow==2.10.0
+streamlit
+streamlit-webrtc
+opencv-python-headless
+av>=11.0.0
+tensorflow==2.15.0
+keras==2.15.0
+numpy<2.0.0
